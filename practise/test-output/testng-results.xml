@@ -1,33 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33045" started-at="2020-01-02T06:31:26Z" finished-at="2020-01-02T06:31:59Z">
+  <suite name="Default suite" duration-ms="134902" started-at="2020-01-02T07:27:19Z" finished-at="2020-01-02T07:29:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33045" started-at="2020-01-02T06:31:26Z" finished-at="2020-01-02T06:31:59Z">
+    <test name="Default test" duration-ms="134902" started-at="2020-01-02T07:27:19Z" finished-at="2020-01-02T07:29:34Z">
       <class name="selenium.NewTest">
-        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="5672" started-at="2020-01-02T12:01:26Z" finished-at="2020-01-02T12:01:31Z">
+        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="28741" started-at="2020-01-02T12:57:19Z" finished-at="2020-01-02T12:57:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
-        <test-method status="PASS" signature="cheakbox()[pri:0, instance:selenium.NewTest@f4468b]" name="cheakbox" duration-ms="7821" started-at="2020-01-02T12:01:31Z" finished-at="2020-01-02T12:01:39Z">
+        <test-method status="PASS" signature="button()[pri:0, instance:selenium.NewTest@f4468b]" name="button" duration-ms="10594" started-at="2020-01-02T12:57:47Z" finished-at="2020-01-02T12:57:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cheakbox -->
-        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="2085" started-at="2020-01-02T12:01:39Z" finished-at="2020-01-02T12:01:41Z">
+        </test-method> <!-- button -->
+        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="162" started-at="2020-01-02T12:57:58Z" finished-at="2020-01-02T12:57:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
-        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="12155" started-at="2020-01-02T12:01:41Z" finished-at="2020-01-02T12:01:54Z">
+        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="14118" started-at="2020-01-02T12:57:58Z" finished-at="2020-01-02T12:58:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
-        <test-method status="PASS" signature="radiobutton()[pri:0, instance:selenium.NewTest@f4468b]" name="radiobutton" duration-ms="3219" started-at="2020-01-02T12:01:54Z" finished-at="2020-01-02T12:01:57Z">
+        <test-method status="PASS" signature="cheakbox()[pri:0, instance:selenium.NewTest@f4468b]" name="cheakbox" duration-ms="7443" started-at="2020-01-02T12:58:12Z" finished-at="2020-01-02T12:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cheakbox -->
+        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="2049" started-at="2020-01-02T12:58:20Z" finished-at="2020-01-02T12:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="4632" started-at="2020-01-02T12:58:22Z" finished-at="2020-01-02T12:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="listfield()[pri:0, instance:selenium.NewTest@f4468b]" name="listfield" duration-ms="6536" started-at="2020-01-02T12:58:26Z" finished-at="2020-01-02T12:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listfield -->
+        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="2313" started-at="2020-01-02T12:58:33Z" finished-at="2020-01-02T12:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="37900" started-at="2020-01-02T12:58:35Z" finished-at="2020-01-02T12:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="multilist()[pri:0, instance:selenium.NewTest@f4468b]" name="multilist" duration-ms="9551" started-at="2020-01-02T12:59:13Z" finished-at="2020-01-02T12:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multilist -->
+        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="2051" started-at="2020-01-02T12:59:23Z" finished-at="2020-01-02T12:59:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:selenium.NewTest@f4468b]" name="b" is-config="true" duration-ms="5411" started-at="2020-01-02T12:59:25Z" finished-at="2020-01-02T12:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="radiobutton()[pri:0, instance:selenium.NewTest@f4468b]" name="radiobutton" duration-ms="3214" started-at="2020-01-02T12:59:30Z" finished-at="2020-01-02T12:59:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- radiobutton -->
-        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="2077" started-at="2020-01-02T12:01:57Z" finished-at="2020-01-02T12:01:59Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:selenium.NewTest@f4468b]" name="a" is-config="true" duration-ms="152" started-at="2020-01-02T12:59:33Z" finished-at="2020-01-02T12:59:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
